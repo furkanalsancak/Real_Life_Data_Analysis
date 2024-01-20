@@ -17,11 +17,13 @@ The repository is structured into three main folders, each corresponding to a sp
   - Plane_Price.csv
   - plane_prices_csv.py
 - README.md<br>
-Company_Sales_Data: Contains datasets related to company sales, accompanied by an analysis notebook (analysis.ipynb) detailing insights and visualizations.
 
-Inventory_Price: Focuses on inventory price data, with a python file, containing the code for the analysis.
 
-Plane_Prices_Data: Holds datasets concerning plane prices, along with a python file for code of the analysis.
+Company_Sales_Data: Contains datasets related to company sales, accompanied by an analysis notebook (analysis.ipynb) detailing insights and visualizations.<br>
+
+Inventory_Price: Focuses on inventory price data, with a python file, containing the code for the analysis.<br>
+
+Plane_Prices_Data: Holds datasets concerning plane prices, along with a python file for code of the analysis.<br>
 
 
 ## Data Sources
